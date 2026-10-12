@@ -1,0 +1,118 @@
+/* General Page */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #fff7f9;
+    color: #555;
+}
+
+/* Header */
+header {
+    background-color: #f3d7e3;
+    color: #5d4a56;
+    text-align: center;
+    padding: 25px;
+}
+
+/* Navigation */
+nav {
+    background-color: #d9e8f5;
+    text-align: center;
+    padding: 12px;
+}
+
+nav a {
+    color: #5d5b68;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #c58aa5;
+}
+
+/* Main Content */
+main {
+    width: 80%;
+    margin: 25px auto;
+}
+
+/* Sections */
+section {
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 12px;
+    box-shadow: 0 3px 10px rgba(180, 160, 170, 0.15);
+}
+
+h2 {
+    color: #9b7185;
+    border-bottom: 2px solid #ead1dc;
+    padding-bottom: 8px;
+}
+
+h3 {
+    color: #7895a8;
+}
+
+/* Paragraphs */
+p {
+    line-height: 1.6;
+}
+
+/* Tables */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: #fffafa;
+}
+
+th {
+    background-color: #dce9e2;
+    color: #586b61;
+    padding: 12px;
+}
+
+td {
+    border: 1px solid #eadfe4;
+    padding: 10px;
+    text-align: center;
+}
+
+/* Lists */
+li {
+    margin: 8px 0;
+}
+
+/* Button */
+button {
+    background-color: #e8c9d8;
+    color: #5d4a56;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 15px;
+}
+
+button:hover {
+    background-color: #d9b5c8;
+}
+
+/* Welcome Box */
+.welcome {
+    background-color: #e9f2f8;
+    text-align: center;
+    border-radius: 15px;
+}
+
+/* Footer */
+footer {
+    background-color: #d8d1df;
+    color: #5c5662;
+    text-align: center;
+    padding: 15px;
+    margin-top: 30px;
+}
